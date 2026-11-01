@@ -1,4 +1,4 @@
-<div align="center">
+8<div align="center">
     <img width="256" src="TOALauncher/src/main/res/drawable/app_name_title.png"></img>
 </div>
 
@@ -56,7 +56,7 @@ This project uses several useful code libraries. Special thanks to them!
 >- [libepoxy](https://github.com/anholt/libepoxy): [MIT License](https://github.com/anholt/libepoxy/blob/master/COPYING).
 >- [virglrenderer](https://github.com/PojavLauncherTeam/virglrenderer): [MIT License](https://gitlab.freedesktop.org/virgl/virglrenderer/-/blob/master/COPYING).
 
-#### Additional Code Libraries Used by Zalith Launcher
+#### Additional Code Libraries Used by TOA Launcher
 
 >- [HMCL](https://github.com/HMCL-dev/HMCL) (uses some source code): [GPL-3.0 License](https://github.com/HMCL-dev/HMCL/blob/main/LICENSE)
 >- [CommonMark](https://github.com/thephpleague/commonmark) (for rendering Markdown text): [BSD-3-Clause License](https://github.com/thephpleague/commonmark/blob/2.5/LICENSE)
