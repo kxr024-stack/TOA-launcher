@@ -1,4 +1,4 @@
-8<div align="center">
+forked from zalith launcher<div align="center">
     <img width="256" src="TOALauncher/src/main/res/drawable/app_name_title.png"></img>
 </div>
 
